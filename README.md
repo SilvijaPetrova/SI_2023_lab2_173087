@@ -8,8 +8,8 @@
 
 2.Control Flow Graph
 
+![lab2 173087 CFG](https://github.com/SilvijaPetrova/SI_2023_lab2_173087/assets/102763974/fc4043ea-5c98-4da9-a060-f17ebce3e620)
 
-![Lab2,173087](https://github.com/SilvijaPetrova/SI_2023_lab2_173087/assets/102763974/47460cdf-4322-4351-8ec8-5cedef4404f8)
 
 
 Важно: бројките се земени според линијиите код од функцијата па до крај од целиот код заедно.
