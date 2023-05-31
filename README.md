@@ -8,7 +8,7 @@
 
 2.Control Flow Graph
 
-![lab2 173087 CFG](https://github.com/SilvijaPetrova/SI_2023_lab2_173087/assets/102763974/fc4043ea-5c98-4da9-a060-f17ebce3e620)
+![lab2 173087 CFG](https://github.com/SilvijaPetrova/SI_2023_lab2_173087/assets/102763974/16008518-09bd-431a-a206-bdb8ac4553f5)
 
 
 
